@@ -2,6 +2,7 @@
 
 This repository contains a Jupyter notebook written in the R statistical programming language which demonstrates the usage of different neural network architectures, mainly focusing on the example of mortality modeling.
 For this reason, the repository also contains some mortality data, which were obtained from the Human Mortality Database (www.mortality.org) in August 2022.
+You are recommended to visit the website and obtain an up-to-date version of the data for performing your own analysis.
 
 ## Software requirements
 
