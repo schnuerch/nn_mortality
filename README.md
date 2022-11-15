@@ -22,6 +22,8 @@ During installation, don't forget to select the option **Add Python 3.9 to PATH*
 
 Do not change the path to which Python is installed, unless you know what you are doing (otherwise, `renv` might have trouble finding Python and you might have to manually specify the Python path in `renv`).
 
+For the `tensorflow` package to run you might also have to install some C and C++ runtime libraries (e.g., [here](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170) for Windows).
+
 ### Jupyter Notebook
 
 First, install Jupyter Notebook:
